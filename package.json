@@ -5,7 +5,7 @@
 
 
 
-  
+
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -41,6 +41,18 @@
     "typescript": "^5.6.2"
   }
 
+
+
+  {
+
+
+    "devDependencies": {
+      // ... existing
+      "mysql2": "^3.11.0"
+    }
+
+    
+  }
 
 
 
