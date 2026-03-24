@@ -1,7 +1,6 @@
-@import "tailwindcss/base";
+@import "tailwindcss";
 @import "tailwindcss/components";
 @import "tailwindcss/utilities";
-
 /* Root Colors */
 :root {
   --background: #ffffff;
